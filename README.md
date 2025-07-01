@@ -1,5 +1,4 @@
 - Hi, I’m @birchtree02
-- I 
 - I am:
   - A Computer Science graduate with a 1st Class degree from the University of Edinburgh
   - Experienced in Python
